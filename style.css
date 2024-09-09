@@ -1,0 +1,147 @@
+.as{
+    width: 150px;
+}
+.one{
+    display: flex;
+    justify-content: start;
+    padding-left: 60px;
+
+}
+.img{
+    width: 40px;
+    height: 30px;
+}
+.gg{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #4285F4;
+    padding: 3px;
+    width: 500px;
+    border: 1px solid rgb(209, 206, 206);
+    border-radius: 3px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: normal;
+}
+.back{
+    display: flex;
+    justify-content: center;
+}
+.two{
+    margin-top: 80px;
+}
+.txt{
+    color: white;
+    font-weight: bold;
+}
+.gg:hover{
+    border: 1px solid black;
+}
+.three{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    text-decoration-color: gray;
+    text-decoration-line: line-through;
+    color: white;
+}
+.or{
+    margin: 8px;
+    color: gray;
+}
+.four{
+    display: flex;
+    justify-content: center;
+}
+.email{
+    width: 350px;
+    height: 40px;
+    padding-left: 15px;
+    border-radius: 2px;
+    border: 1px solid;
+}
+::placeholder{
+    font-size: 18px;
+    color: rgb(128, 128, 128,0.5);  
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width:150px ;
+    border: none;
+    border-radius: 2px;
+}
+.btn:hover{
+    background-color: rgb(215, 100, 119);
+    color: black;
+    font-weight: bold;
+}
+.parent{
+    font-family: inherit;
+}
+.five{
+    display: flex;
+    justify-content: center;
+}
+.six{
+    display: flex;
+    justify-content: center;
+}
+.a1{
+    display: flex;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+}
+.b2{
+display: flex;
+width: 200px;
+margin: 10px;
+padding: 10px;
+}
+.c3{
+    display: flex;
+      width: 200px;
+      margin: 10px; 
+      padding: 10px;
+}
+.fa-circle-check{
+    font-size: 30px;
+    display: flex;
+    
+}
+.seven{
+    display: flex;
+    justify-content: center;
+}
+.a2{
+    margin: 20px;
+    padding: 10px;
+}
+.b3{
+    margin: 20px;
+    padding: 10px;
+}
+.tem:hover{
+    text-decoration: underline;
+}
+.ser:hover{
+    text-decoration: underline;
+}
+.eng:hover{
+    text-decoration: underline;
+}
+.rt:hover{
+    text-decoration: underline;
+    color: brown;
+}
+.rt{
+    font-weight: bold;
+}
